@@ -48,5 +48,5 @@
 그림 4) 이미지 이진화 적용
 이미지 프로세싱의 최종 단계로 이미지 이진화를 통해 인식률을 향상시켰다.
 
-![image](https://user-images.githubusercontent.com/45943080/103727262-339b7880-501e-11eb-802a-bec434adb4f0.png)
+![image](https://user-images.githubusercontent.com/45943080/103727323-59288200-501e-11eb-9ea3-924d3a511008.png)
 
