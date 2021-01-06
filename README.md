@@ -46,6 +46,8 @@
 이미지 분할 적용 후
 
 
+![image](https://user-images.githubusercontent.com/45943080/103727501-c20ffa00-501e-11eb-9b7b-6d001a8f6317.png)
+
 
 
 # 이미지 이진화
