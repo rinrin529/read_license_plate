@@ -1,5 +1,5 @@
 # read_license_plate
- 차량번호판 문자인식(OCR)<br/><br/>
+ 차량번호판 문자인식(OCR)<br /><br />
 
 # 프로젝트 파이프라인
 ![image](https://user-images.githubusercontent.com/45943080/103255894-70d48a80-49ce-11eb-973a-179989419c62.png)<br/><br/><br/>
@@ -23,18 +23,18 @@
 그림3은 불필요한 객체를 나타내는 box를 모두 제거하고 난 뒤의 모습이다. <br/>
 이미지 분할을 적용시킨 전처리 후의 이미지로 <br/>
 tesseract OCR를 사용하여 문자를 인식한 결과 인식률이 향상된 것을 알 수 있다. <br/><br/>
-* 이미지 분할 적용 전
-<br/>
+- 이미지 분할 적용 전
+<br />
 ![image](https://user-images.githubusercontent.com/45943080/103256045-11c34580-49cf-11eb-8962-f42f65a6f8a4.png)
-<br/>
-* 이미지 분할 적용 후
-<br/>
+<br />
+- 이미지 분할 적용 후
+<br />
 ![image](https://user-images.githubusercontent.com/45943080/103256060-1ab41700-49cf-11eb-9295-8163a859d712.png)
-<br/>
+<br />
 * 인식 결과
-<br/>
+<br />
 ![image](https://user-images.githubusercontent.com/45943080/103727501-c20ffa00-501e-11eb-9b7b-6d001a8f6317.png)
-<br/><br/><br/>
+<br /><br /><br />
 
 
 # 이미지 이진화
