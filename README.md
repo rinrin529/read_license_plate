@@ -1,4 +1,4 @@
-<center># 스마트 파킹 가이드 시스템<center>
+# 스마트 파킹 가이드 시스템
  > 전체 프로젝트 중 차량번호판 문자인식(OCR)에 해당하는 부분입니다<br/>
  > 프로젝트 설명 및 시연 영상 링크: [스마트파킹가이드_시스템-YouTube](https://www.youtube.com/watch?v=nMGmGXCRksA&t=4s)
 
