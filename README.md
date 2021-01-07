@@ -1,6 +1,6 @@
-<h1 align="center">스마트 파킹 가이드 시스템</h1>
- > 전체 프로젝트 중 차량번호판 문자인식(OCR)에 해당하는 부분입니다<br/>
- > 프로젝트 설명 및 시연 영상 링크: [스마트파킹가이드_시스템-YouTube](https://www.youtube.com/watch?v=nMGmGXCRksA&t=4s)
+<h1 align="center">스마트 파킹 가이드 시스템</h1><br/>
+> 전체 프로젝트 중 차량번호판 문자인식(OCR)에 해당하는 부분입니다<br/>
+> 프로젝트 설명 및 시연 영상 링크: [스마트파킹가이드_시스템-YouTube](https://www.youtube.com/watch?v=nMGmGXCRksA&t=4s)
 
 # 프로젝트 파이프라인
 ![image](https://user-images.githubusercontent.com/45943080/103255894-70d48a80-49ce-11eb-973a-179989419c62.png)<br/><br/><br/>
