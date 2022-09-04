@@ -3,7 +3,7 @@
 
 `Python` `YOLO v3` `Node JS` `Tesseract-OCR` `Super Resolution(WDSR)` `Image Processing`
 
-**주차장에서 촬영한 영상을 통해 사용자에게 차량이 주차된 위치를 알려준다**
+**주차장에서 촬영한 영상을 통해 사용자에게 차량이 주차된 위치를 알려준다**<br/>
 
 전체 프로젝트 중 차량번호판 문자인식(OCR)에 해당하는 부분입니다
 프로젝트 설명 및 시연 영상 링크: [스마트파킹가이드_시스템-YouTube](https://www.youtube.com/watch?v=nMGmGXCRksA&t=4s)<br/><br/>
