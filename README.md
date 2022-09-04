@@ -1,6 +1,11 @@
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Frinrin529%2Fread_license_plate%2Fhit-counter&count_bg=%238CBFE7&title_bg=%23989696&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
-<br/><h1 align="center">스마트 파킹 가이드 시스템</h1>
-전체 프로젝트 중 차량번호판 문자인식(OCR)에 해당하는 부분입니다<br/>
+# 🔹 스마트 파킹 가이드 시스템
+
+
+`Python` `YOLO v3` `Node JS` `Tesseract-OCR` `Super Resolution(WDSR)` `Image Processing`
+
+**주차장에서 촬영한 영상을 통해 사용자에게 차량이 주차된 위치를 알려준다**
+
+전체 프로젝트 중 차량번호판 문자인식(OCR)에 해당하는 부분입니다
 프로젝트 설명 및 시연 영상 링크: [스마트파킹가이드_시스템-YouTube](https://www.youtube.com/watch?v=nMGmGXCRksA&t=4s)<br/><br/>
 
 # 프로젝트 파이프라인
